@@ -1,0 +1,4 @@
+codecarbon
+boto3
+transformers
+torch
